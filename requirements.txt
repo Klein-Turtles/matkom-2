@@ -1,0 +1,9 @@
+# requirements.txt
+mysql-connector-python
+numpy
+scipy
+python-dotenv
+Flask
+requests
+beautifulsoup4
+selenium
