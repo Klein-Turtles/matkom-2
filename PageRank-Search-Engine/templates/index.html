@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matematika Komputer 2</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Raleway:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container-fluid vh-100 d-flex align-items-center justify-content-center">
+        <div class="search-container text-center">
+            <div class="logo-section mb-4">
+                <i class="fas fa-search logo-icon"></i>
+                <h1 class="text-custom-small fw-bold gradient-text">PageRank Search Engine Matematika Komputer 2</h1>
+                </div>
+            
+            <form class="search-form" action="/search" method="get">
+                <div class="input-group input-group-lg search-input-group">
+                    <span class="input-group-text border-0 bg-white">
+                        <i class="fas fa-search text-muted"></i>
+                    </span>
+                    <input type="text" 
+                           name="q" 
+                           class="form-control border-0 search-input" 
+                           placeholder="Masukkan kata kunci pencarian..." 
+                           required 
+                           autofocus>
+                    <button class="btn btn-primary search-btn" type="submit">
+                        <i class="fas fa-arrow-right me-2"></i>Cari
+                    </button>
+                </div>
+            </form>
+            
+            <div class="mt-4">
+                <small class="text-muted">
+                    <i class="fas fa-lightbulb me-1"></i>
+                    Tips: Gunakan kata kunci yang spesifik untuk hasil yang akurat
+                </small>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script>
+        // Add loading animation on form submit
+        document.querySelector('.search-form').addEventListener('submit', function() {
+            const btn = document.querySelector('.search-btn');
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Mencari...';
+            btn.disabled = true;
+        });
+
+        // Add typing animation effect
+        const searchInput = document.querySelector('.search-input');
+        searchInput.addEventListener('focus', function() {
+            this.parentElement.classList.add('focused');
+        });
+        
+        searchInput.addEventListener('blur', function() {
+            this.parentElement.classList.remove('focused');
+        });
+    </script>
+</body>
+</html>

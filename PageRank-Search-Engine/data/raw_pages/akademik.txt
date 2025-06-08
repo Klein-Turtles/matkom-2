@@ -1,0 +1,154 @@
+# data/raw_pages/akademik.txt
+
+Akademik Departemen Teknik Elektro dan Informatika UM
+
+Departemen Teknik Elektro dan Informatika di Universitas Negeri Malang menggabungkan ilmu teknik elektro dan informatika dalam pendekatan komprehensif. Kurikulum berfokus pada pemecahan masalah, pengembangan kreatif, dan penerapan teknologi modern. Dosen berkualitas, fasilitas laboratorium lengkap, serta program pengabdian masyarakat terintegrasi membuat departemen ini ideal bagi pendidikan teknik elektro dan informatika. Lulusan siap berkompetisi di dunia profesional yang terus berkembang.
+
+---
+
+Program Studi:
+Bagian ini menjelaskan secara detail program-program studi yang ditawarkan di DTEI UM.
+
+* **S3 Teknik Elektro dan Informatika (PSDTEI):**
+Program Studi Doktor Teknik Elektro dan Informatika (PSDTEI) mampu mengembangkan, mengelola, memecahkan masalah, dan menemukan keilmuan baru dalam bidang Teknik Elektro dan Informatika dengan fokus kajian Sistem Cerdas pada Teknik Ketenagalistrikan, Telekomunikasi, Elektronika, Komputer, Sistem Kendali, Biomedika, Rekayasa Perangkat Lunak & Data, Informatika, dan Teknologi Informasi.  PSDTEI DTE berpartisipasi aktif dalam perkuliahan berdasarkan Surat Keterangan Pendirian: 13.6.74/UN32/KL/2022 pada Tanggal 13 Juni 2022. 
+Visi keilmuan PSDTEI (dicapai tahun 2030) adalah mengembangkan, mengelola, memecahkan masalah, dan menemukan keilmuan baru dalam bidang Teknik Elektro dan Informatika dengan fokus kajian Sistem Cerdas sebagai pendukung kehidupan dan kemanusiaan (Society 5.0). 
+Misi meliputi: menyelenggarakan pendidikan tinggi yang unggul dan menjadi rujukan, menyelenggarakan penelitian dan pengembangan ilmu, membangun iptek untuk kesejahteraan masyarakat, menjalin kerja sama, memberdayakan alumni, dan membangun organisasi prodi yang sehat. 
+Tujuan meliputi: menghasilkan lulusan level Doktoral, menghasilkan karya akademik, mewujudkan kesejahteraan masyarakat, meningkatkan kualitas dan kinerja prodi melalui kerja sama, meningkatkan peran dan kredibilitas prodi melalui pemberdayaan alumni, dan mewujudkan organisasi prodi yang sehat. 
+Profil Lulusan: Doktoral Teknik Elektro dan Informatika yang mampu mengembangkan, mengelola, memecahkan masalah, dan menemukan keilmuan baru dalam bidang Teknik Elektro dan Informatika dengan fokus kajian Sistem Cerdas. 
+Keunggulan PSDTEI: Mengakomodasi Program Doctor by Coursework dan Doctor by Research.  Kurikulum dirancang untuk masa studi 5 semester (2.5 tahun).  Fokus penelitian pada bidang minat teknik ketenagalistrikan, telekomunikasi, biomedical instrumentations, elektronika, sistem kendali, rekayasa perangkat lunak, Informatika, dan Teknologi Informasi. 
+Kurikulum PSDTEI memuat capaian pembelajaran mengacu pada Permendikbud No. 3 Tahun 2020 (SN-Dikti) dan deskripsi level 9 (sembilan), KKNI sesuai Perpres Nomor 8 Tahun 2012.  Kurikulum disusun berdasar analisis SWOT, penetapan visi keilmuan, analisis kebutuhan, dan masukan pemangku kepentingan/asosiasi profesi.  Kurikulum memuat mata kuliah/modul/blok yang mendukung pencapaian kompetensi lulusan dan memberikan keleluasaan pada mahasiswa.  Kurikulum dirancang berdasarkan relevansinya dengan tujuan, cakupan, dan kedalaman materi, serta pengorganisasian yang mendorong hard skills dan soft skills. 
+
+* **S2 Magister Teknik Elektro (PSMTE):**
+Program Studi Magister Teknik Elektro (PSMTE) diusulkan oleh UM pada tahun 2017 dan diresmikan dengan SK Menteri 622/KPT/I/2017.  PSMTE dikelola oleh Fakultas Teknik Jurusan Teknik Elektro dan mengikuti Pascasarjana UM.  Program studi pendukung PSMTE adalah S1 Teknik Elektro dan S1 Teknik Informatika.  Saat ini dikoordinir oleh Dr.Eng. Didik Dwi Prasetya, S.T., M.T.  dengan fokus pada materi-materi berkaitan dengan Sistem Komunikasi Cerdas, Sistem Elektronika Cerdas, Sistem Tenaga Cerdas, Sistem Otonomi Cerdas, dan Internet of Things.  Akreditasi PSMTE adalah Terakreditasi Baik hingga 2026. 
+Visi ilmiah PSMTE (dicapai tahun 2030) adalah mengembangkan keilmuan berbasis sains dan teknologi pada bidang Perangkat dan Sistem Cerdas yang relevan dengan kebutuhan pembangunan, masyarakat dan kemanusiaan. 
+Misi meliputi: menyelenggarakan pendidikan tinggi yang unggul dan menjadi rujukan, menyelenggarakan penelitian dan pengembangan ilmu, membangun iptek untuk kesejahteraan masyarakat, menjalin kerja sama, memberdayakan alumni, dan membangun organisasi prodi yang sehat. 
+Tujuan meliputi: menghasilkan lulusan level sarjana bidang Perangkat dan Sistem Cerdas, menghasilkan karya akademik, mewujudkan kesejahteraan masyarakat, meningkatkan kualitas dan kinerja prodi melalui kerja sama, meningkatkan peran dan kredibilitas prodi melalui pemberdayaan alumni, dan mewujudkan organisasi prodi yang sehat. 
+
+* **S1 Teknik Elektro (PSSTE):**
+Program studi S1 Teknik Elektro resmi dibuka pada 10 September 2014, sesuai dengan SK menteri No. 393/E/O/2014.  Diketuai oleh Bapak Ilham Ari Elbaith Zaeni, S.T., M.T., Ph.D.  membidik calon mahasiswa yang ingin mengasah kompetensinya di berbagai bidang elektro. 
+Visi ilmiah PSSTE (dicapai tahun 2030) adalah mengembangkan keilmuan berbasis sains dan teknologi pada bidang Sistem Tenaga dan Sistem Kendali Cerdas. 
+Misi meliputi: menyelenggarakan pendidikan tinggi yang unggul, menyelenggarakan penelitian dan pengembangan ilmu, membangun ilmu pengetahuan dan teknologi, menjalin kerja sama, memberdayakan alumni, dan membangun organisasi program studi yang sehat. 
+Tujuan meliputi: menghasilkan lulusan sarjana teknik elektro yang unggul, menghasilkan karya akademik, mewujudkan kesejahteraan masyarakat melalui penerapan iptek, meningkatkan kualitas dan kinerja program studi, meningkatkan peran dan kredibilitas program studi, dan mewujudkan organisasi program studi yang sehat. 
+Profil Lulusan PSSTE UM meliputi: Perancang dan pengembang sistem elektronik dan energi, peneliti dan inovator teknologi elektro, wirausaha teknologi, serta pendidik dan pelatih teknis di bidang teknik elektro.  Profil lulusan ini mencerminkan kompetensi utama yang harus dimiliki sebagai profesional mandiri, termasuk berpikir kritis, memecahkan masalah, berkomunikasi efektif, serta memiliki integritas dan etika profesional. 
+Capaian Pembelajaran Lulusan (CPL) dirancang berdasarkan KKNI dan Standar Nasional Pendidikan Tinggi, disesuaikan dengan kebutuhan industri.  CPL mencakup: menguasai konsep teoritik dan prinsip rekayasa sistem tenaga/kendali, mampu mengoperasikan dan menganalisis komponen, mampu merancang dan mengembangkan proses/sistem optimasi, mampu melaksanakan perbaikan dan perawatan peralatan, memiliki jiwa technopreneurship, dan memiliki jiwa sosiotechno-responsif dan manajemen. 
+Struktur Kurikulum dan Sebaran Mata Kuliah: (Tabel Mata Kuliah dan SKS per Standar CPL) 
+Standar CPL 1 (Kalkulus I, Fisika Listrik, Kimia Listrik, dll. - Total 32 SKS) 
+Standar CPL 2 (Pengukuran Listrik, Rangkaian Listrik I, Elektronika Analog I, dll. - Total 24 SKS) 
+Standar CPL 3 (Metodologi Penelitian, Tatatulis Karya Ilmiah, Sistem Cerdas, dll. - Total 43 SKS) 
+Standar CPL 4 (Praktik Industri, Kuliah Kerja Nyata, Sistem Kendali Industri, dll. - Total 23 SKS) 
+Standar CPL 5 (Bahasa Inggris Profesi, Kewirausahaan, Manajemen Industri, Sosioteknologi, Etika Profesi - Total 10 SKS) 
+Standar CPL 6 (Pendidikan Agama, Pendidikan Pancasila, Pendidikan Kewarganegaraan, Pendidikan Bahasa Indonesia, Manajemen Inovasi, K3 - Total 14 SKS) 
+
+* **S1 Pendidikan Teknik Elektro (PS1PTE):**
+Program studi S1 Pendidikan Teknik Elektro resmi dibuka pada 25 Juni 2009, sesuai dengan SK menteri No. 1034/D/T/2009.  Menjadi program studi favorit karena berhasil menduduki peringkat A pada akreditasi.  Diketuai oleh I Made Wirawan, S.T., M.T.  membidik calon mahasiswa yang ingin menjadi seorang pendidik di bidang teknik elektro, namun lulusan juga dapat melebarkan kompetensinya di berbagai bidang. 
+Visi: Mewujudkan Prodi S1 Pendidikan Teknik Elektro sebagai program studi yang unggul dan menjadi rujukan nasional dalam pengembangan pendidikan dan sains khususnya dalam bidang Pendidikan Teknik Elektro. 
+Misi meliputi: menyelenggarakan pendidikan tinggi yang unggul, menyelenggarakan penelitian dan pengembangan ilmu, membangun masyarakat melalui penerapan iptek, menjalin kerjasama, memberdayakan alumni, dan membangun organisasi departemen/prodi yang sehat. 
+Tujuan: Menghasilkan lulusan tingkat sarjana PTE yang unggul, menghasilkan karya ilmiah, mewujudkan kesejahteraan masyarakat melalui penerapan IPTEKS, meningkatkan kualitas dan kinerja prodi melalui kerjasama, meningkatkan peran dan eksistensi prodi melalui pemberdayaan alumni, dan mewujudkan tata kelola prodi yang sehat. 
+CPL/Learning Outcomes (LO) meliputi: LO1 (pembangkitan tenaga listrik), LO2 (transmisi dan distribusi), LO3 (pemanfaatan tenaga listrik), LO4 (otomasi industri), LO5 (pedagogik dan pembelajaran), LO6 (dasar kelistrikan/elektronika), LO7 (elektronika industri), LO8 (mekatronika), LO9 (penelitian dan pengembangan), LO10 (kewirausahaan). 
+
+* **S1 Teknik Informatika (PSSTI):**
+Program studi S1 Teknik Informatika resmi dibuka pada 27 Agustus 2014, sesuai dengan SK menteri No. 350/E/O/2014.  Diketuai oleh Bapak Dr.Eng. Didik Dwi Prasetya, S.T., M.T.  membidik calon mahasiswa yang ingin mengasah kompetensinya di berbagai bidang informatika. 
+Visi: Menerapkan keilmuan dalam bidang komputasi sosial budaya, teknologi digital cerdas, game teknologi, dan aplikasi machine learning. 
+Misi meliputi: menyelenggarakan pendidikan dan pembelajaran berkualitas tinggi, melaksanakan dan memanfaatkan hasil penelitian, melaksanakan pengabdian kepada masyarakat. 
+Tujuan: Menghasilkan lulusan sarjana TI yang unggul, menghasilkan karya akademik, mewujudkan kesejahteraan masyarakat melalui penerapan IPTEKS. 
+Profil Lulusan PSSTI UM meliputi: Pengembang Perangkat Lunak, Peneliti di Bidang Informatika dan Komputasi, Wirausahawan Teknologi Informasi (Technopreneur), Analis Data dan Sistem Cerdas, Pengembang Game dan Desainer Antarmuka Pengguna (UI/UX Designer), Spesialis Infrastruktur dan Sistem Komputer. 
+CPL PSSTI UM mencakup: menguasai konsep dasar keilmuan TI, mampu merencanakan dan merancang teknologi informasi unggulan, mampu membuat prototipe/produk TI, mampu mengaplikasikan dan mengintegrasikan produk TI, mampu membangun aplikasi sistem informasi, dan mampu membuat perencanaan bisnis digital/mengelola usaha. 
+Struktur Kurikulum dan Sebaran Mata Kuliah: (Tabel Mata Kuliah dan SKS per Standar CPL) 
+Standar CPL 1 (Pendidikan Agama Islam, Pendidikan Pancasila, Bahasa Indonesia, dll. - Total 31 SKS) 
+Standar CPL 2 (Pengantar Teknologi Informasi, Algoritma dan Pemrograman, Organisasi dan Arsitektur Komputer, dll. - Total 20 SKS) 
+Standar CPL 3 (Sistem Operasi, Grafika Komputer, Pemrograman Deklaratif, dll. - Total 22 SKS) 
+Standar CPL 4 (Rekayasa Perangkat Lunak, Multimedia, Analisis dan Desain Algoritma, dll. - Total 46 SKS) 
+Standar CPL 5 (Basis Data dan Sistem Informasi, Pemrograman Web, Proyek Sistem Informasi, dll. - Total 31 SKS) 
+Standar CPL 6 (Kewirausahaan, Komersialisasi Produk informatika, Business Intelegence, Educational Informatics - Total 11 SKS) 
+
+* **S1 Pendidikan Teknik Informatika (PS1PTI):**
+Program studi S1 Pendidikan Teknik Informatika resmi dibuka pada 18 September 2006, sesuai dengan SK menteri No. 3454/D/T/2006.  Pernah menjadi program studi favorit karena belum ada program studi serupa di Jawa Timur.  Diketuai oleh Azhar Ahmad Smaragdina, S.Pd, M.Pd.  membidik calon mahasiswa yang ingin menjadi seorang pendidik di bidang teknik informatika, namun lulusan juga dapat melebarkan kompetensinya.  Prodi S1 PTI telah terakreditasi Unggul oleh BAN-PT hingga 2027. 
+Visi: Mewujudkan PS1PTI sebagai program studi yang unggul dan menjadi rujukan nasional dalam bidang pendidikan (perencanaan, penyelenggaraan, dan penilaian pembelajaran TIK), dan menganalisis, merancang, dan merealisasikan sistem berbasis komputer. 
+Misi meliputi: menyelenggarakan pendidikan tinggi yang unggul, menyelenggarakan penelitian dan pengembangan ilmu, membangun masyarakat melalui penerapan iptek, menjalin kerja sama, memberdayakan alumni, dan membangun organisasi Departemen/prodi yang sehat. 
+Tujuan: Menghasilkan lulusan Sarjana PTI yang unggul, menghasilkan karya akademik, mewujudkan kesejahteraan masyarakat melalui penerapan IPTEKS, meningkatkan kualitas dan kinerja prodi melalui kerjasama, meningkatkan peran dan citra prodi melalui pemberdayaan alumni, dan mewujudkan organisasi prodi yang sehat. 
+
+---
+
+Akreditasi:
+Informasi mengenai status akreditasi program studi yang ada di DTEI UM.
+Berikut adalah status akreditasi Program Studi yang ada di Departemen Teknik Elektro Universitas Negeri Malang:
+NO PROGRAM STUDI AKREDITASI (SK Terbaru) MASA BERLAKU SURAT KETERANGAN
+1 S1 Pendidikan Teknik Informatika Unggul 20-04-2022 sampai 20-04-2027
+2 S1 Pendidikan Teknik Elektro Unggul 10-07-2023 sampai 9-07-2028
+3 S1 Teknik Informatika Unggul 15-12-023 sampai 15-12-2028
+4 S1 Teknik Elektro Baik Sekali 21-08-2023 sampai 20-08-2028
+5 S2 Magister Teknik Elektro Baik 20-04-2021 sampai 20-04-2026
+6 S3 Teknik Elektro dan Informatika Baik 04-07-2023 sampai 04-07-2025 
+
+---
+
+Pengembangan SDM:
+Detail tentang program atau inisiatif untuk pengembangan sumber daya manusia di departemen.
+Untuk meningkatkan mutu Pendidikan di UM, setiap dosen baru akan selalu dibekali dengan kegiatan-kegiatan pelatihan untuk menunjang hal tersebut.  Kegiatan-kegiatan tersebut pada dasarnya telah difasilitasi UM melalui Lembaga Pengembangan Pendidikan dan Pembelajaran.  Adapun kegiatan-kegiatan tersebut diantaranya adalah Pekerti dan Applied Approach (AA).  PEKERTI merupakan pelatihan dasar dan pemahaman agar dosen muda punya wawasan yang baik tentang cara mengajar di perguruan tinggi atau bagaimana mengimplementasikan kurikulum yang telah ditetapkan.  Pelatihan Pekerti meliputi penilaian akademik dan penilaian sikap perilaku. 
+AA bertujuan melatih dosen muda untuk mendesain pembelajaran berbasis kehidupan. 
+Selain kegiatan untuk meningkatkan kemampuan dalam hal pengajaran, UM juga memfasilitasi kegiatan training untuk peningkatan kompetensi keahlian.  Kegiatan ini umumnya dilaksanakan oleh Lembaga di luar UM.  Bagi staf yang ingin mengikuti kegiatan peningkatan kompetensi keahlian bisa berkonsultasi terlebih dahulu kepada ketua Jurusan terkait pembiayaan.  Sumber pembiayaan tidak hanya dari Jurusan saja, melainkan bisa dari Lembaga lain di luar UM, seperti Lembaga IsDB dan Kemendikbud.  Peningkatan kualitas publikasi juga merupakan kegiatan untuk mengembangkan staf.  Prodi S1 TE dan S1 PTE mengadakan pelatihan penulisan artikel untuk dipublikasikan di Seminar Internasional ICEEIE dan ICOVET, yang terindeks Scopus. 
+UM juga memberikan penghargaan/insentif bagi dosen/tenaga kependidikan yang telah menghasilkan karya ilmiah yang dipublikasi (Remunerasi P3).  UM memfasilitasi dan mendorong dosen/staf untuk melakukan penelitian dan pengabdian kepada masyarakat dengan pendanaan dari LP2M.  Bagi staf yang terseleksi dan dinyatakan lulus untuk pendanaan, pelaksanaannya dapat dibiayai oleh LP2M. 
+Peningkatan mutu staf juga erat kaitannya dengan latar belakang pendidikan, khususnya studi Doktoral bagi dosen dengan kualifikasi Magister.  UM memotivasi semua dosen untuk melanjutkan pendidikan ke jenjang doktoral.  Dosen baru yang mulai bekerja pada tahun 2018 diwajibkan menempuh Pendidikan lanjut di luar negeri untuk meningkatkan wawasan dan menjalin hubungan baik dengan universitas terbaik.  UM juga mendorong peningkatan kemampuan bahasa asing sebagai bekal studi dan syarat beasiswa, dengan memfasilitasi tes TOEFL ITP dan kursus bahasa asing. 
+Pembinaan dosen muda oleh dosen senior dilakukan dalam berbagai kegiatan di tingkat universitas maupun jurusan, termasuk pelatihan prajabatan, PEKERTI, AA, pelatihan Bahasa Inggris, dan pelatihan SIPEJAR.  Ada pula pembimbingan dosen senior dan program pencangkokan dosen muda. 
+
+---
+
+Penerimaan Mahasiswa:
+Informasi lengkap tentang persyaratan, prosedur, dan jadwal penerimaan mahasiswa baru.
+Program menerima mahasiswa baru melalui 4 jalur umum setiap tahun: SNMPTN, SBMPTN, seleksi mandiri, dan khusus asing mahasiswa (SPAJ).  Penerimaan mahasiswa baru di masing-masing program studi dikoordinasikan oleh Universitas Negeri Malang.  Proses pendaftaran dilakukan secara online melalui http://home.seleksi.um.ac.id/.  Setiap program studi memiliki kapasitas 3 penawaran, masing-masing menampung 25 sampai 30 siswa.  Kedua prodi semakin diminati, dengan tarif rata-rata masuk 1:15 untuk S1 Teknik Elektro dan 1:5 untuk S1 Pendidikan Teknik Elektro.  Mahasiswa baru wajib mengikuti kegiatan orientasi (PKKMB) setelah pendaftaran dan pembayaran, dilanjutkan sosialisasi oleh Fakultas Teknik dan Jurusan Teknik Elektro. 
+Penerimaan mahasiswa asing dikoordinasikan oleh Kantor Internasional UM Hubungan, baik melalui jalur beasiswa maupun mandiri.  Proses rekrutmen mengikuti prosedur: pendaftaran melalui Kantor Internasional UM Hubungan, data diteruskan ke program studi untuk seleksi, hasil seleksi diserahkan kembali, dan pengumuman melalui email/situs resmi.  Mahasiswa asing akan dibantu dalam proses pendaftaran dan mengikuti kegiatan persiapan BIPA selama satu semester untuk melatih kemampuan Bahasa Indonesia.  Koordinator Program Studi yang menjadi pembimbing akademiknya akan membantu dalam urusan akademik. 
+Selain itu, prodi juga menerima mahasiswa transdisipliner dari dalam/luar UM.  Pendaftaran dilakukan melalui situs web penerimaan.  Kapasitas yang diperbolehkan adalah 20% dari jumlah siswa reguler per kelas (sekitar 4-5 siswa per semester).  Mahasiswa diberikan akses ke siakad.um.ac.id dan sipejar.um.ac.id dengan hak belajar yang sama. 
+
+---
+
+Kalender Akademik:
+Jadwal penting terkait kegiatan akademik selama satu tahun ajaran.
+Rektor Universitas Negeri Malang menetapkan Keputusan tentang Kalender Akademik Universitas Negeri Malang Tahun Akademik 2020/2021 dengan nomor 6.5.69/UN32/KM/2020, berlaku efektif mulai tanggal 6 Mei 2020.  Dokumen Kalender Akademik UM tersedia untuk tahun akademik 2020/2021 hingga 2025/2026 dalam edisi Bahasa Indonesia dan Bahasa Inggris. 
+
+---
+
+Sistem Perkuliahan:
+Penjelasan tentang metode dan sistem perkuliahan yang diterapkan di departemen.
+Kegiatan studi mahasiswa dapat berupa kuliah teori, praktikum, atau kerja lapangan, atau gabungan ketiganya.  Perkuliahan teori bertujuan menguasai teori, prinsip, konsep, dan generalisasi.  Praktikum bertujuan mengaplikasikan teori dalam kondisi terbatas, dan kerja lapangan dalam keadaan nyata.  Ketiga bentuk perkuliahan dapat dilakukan lewat tatap muka, terstruktur (tugas terbimbing), dan belajar mandiri. 
+Penghargaan terhadap kegiatan akademik dinyatakan dalam satuan kredit semester (sks).  1 sks terdiri atas 1 jam perkuliahan terjadwal per minggu atau 4 jam kerja lapangan, diiringi 1-2 jam tugas terstruktur dan 1-2 jam kegiatan mandiri.  Semester biasa adalah 18 minggu efektif (16 minggu perkuliahan terjadwal, 1 minggu tenang, 1 minggu ujian akhir semester).  Semester pendek adalah 8-10 minggu efektif, termasuk ujian akhir semester. 
+Kurikulum untuk program Sarjana (S1) dan Diploma (DIII) mencakup Kurikulum Inti dan Kurikulum Institusional sesuai Kepmen Diknas RI Nomor 232/U/2000.  Kurikulum Inti (40%-80% SKS) dirumuskan secara nasional, sementara Kurikulum Institusional disusun berdasarkan kebutuhan lingkungan dan ciri khas perguruan tinggi. 
+Beban studi program Sarjana (S1) sekurang-kurangnya 144 sks dan sebanyak-banyaknya 160 sks (8-14 semester).  Program Magister (S2) sekurang-kurangnya 36 sks dan sebanyak-banyaknya 50 sks (4-10 semester).  Program Doktor (S3) memiliki beban studi bervariasi tergantung latar belakang pendidikan dan sebidang/tidak sebidang. 
+Kurikulum program Sarjana terdiri atas 5 komponen: Mata Kuliah Pengembangan Kepribadian (MPK), Keilmuan dan Keterampilan (MKK), Keahlian Berkarya (MKB), Perilaku Berkarya (MPB), dan Berkehidupan Bermasyarakat (MBB).  Kurikulum program Magister terdiri atas 3 komponen: Mata Kuliah Umum (MKU), Dasar Keahlian (MKDK), dan Keahlian (MKK).  Kurikulum program Doktor (S3) terdiri atas 2 komponen: Program Perkuliahan (22-27 sks) dan Disertasi (28 sks). 
+Kegiatan perkuliahan dimulai pukul 07.00 hingga 19.55, dibagi menjadi 12 jam kuliah dengan 2 kali istirahat. 
+
+---
+
+Metode Pembelajaran:
+Informasi mengenai pendekatan dan strategi pembelajaran yang digunakan.
+Pembelajaran dilaksanakan dengan menggunakan model Problem Based Learning (PBL) dan Project Based Learning (PjBL).  Kegiatan pembelajaran di kelas difasilitasi dengan laptop/PC desktop, LCD projector, whiteboard, dan koneksi internet.  Pembelajaran campuran (blended learning) tatap muka dan dalam jaringan telah diselenggarakan menggunakan LMS SIPEJAR sejak 2018.  Perangkat pembelajaran berupa handout, modul, jobsheet, dan multimedia dikembangkan oleh dosen.  Perangkat praktikum berupa trainer, alat ukur, dan bahan disediakan sesuai kebutuhan.  Akses internet berkecepatan tinggi (10 Gbps) disediakan oleh UM dan dapat dimanfaatkan melalui wifi atau komputer di laboratorium.  Dosen telah mampu memilih dan mengaplikasikan model, metode, dan perangkat pembelajaran yang tepat melalui pelatihan PEKERTI dan Applied Approach (AA). 
+
+---
+
+Beban Studi Mahasiswa:
+Panduan mengenai beban studi (SKS) dan peraturan terkait.
+Kurikulum program studi PTE dan TE dirancang agar dapat diselesaikan dalam 4 tahun atau 8 semester, meskipun UM memberikan tenggat waktu sampai 14 semester.  Beban studi didistribusikan secara merata di seluruh semester.  Salah satu kriteria adalah tempat pelaksanaan kegiatan pembelajaran (dalam/luar kampus). 
+Distribusi beban SKS pada prodi PTE dan TE ditunjukkan pada tabel.  Beban studi pada Semester 2 dan seterusnya ditentukan berdasarkan Indeks Prestasi (IP) semester sebelumnya.  IP di atas 3.01: maksimum 24 SKS; IP antara 2.00-3.00: maksimum 22 SKS; IP kurang dari 2.00: maksimum 18 SKS.  Jumlah SKS yang diambil mahasiswa juga ditentukan oleh dosen penasihat akademik berdasarkan pertimbangan beban studi, aktivitas non-akademik, dan pengembangan diri. 
+
+---
+
+Penasihat Akademik:
+Informasi tentang peran dan fungsi penasihat akademik bagi mahasiswa.
+Penasihat akademik (PA) adalah Bapak/Ibu dosen Departemen Teknik Elektro yang memfasilitasi mahasiswa untuk berkonsultasi mengenai hal-hal akademik.  Mahasiswa dapat meminta pendapat dan saran akademik, serta dosen PA juga menangani permasalahan mahasiswa yang menjadi tanggung jawabnya.  Hampir seluruh dosen Departemen Teknik Elektro mengemban amanah sebagai dosen PA.  Jumlah mahasiswa yang menjadi tanggung jawab setiap dosen berbeda-beda.  Dosen PA juga akan mengarahkan mahasiswa agar memperoleh IPK yang bagus dan bagaimana me-manage waktu.  Setiap awal semester, mahasiswa wajib melaporkan hasil studi kepada dosen PA untuk mendapatkan tanda tangan pada KRS.  Dosen PA berkewajiban memantau perkembangan mahasiswa sampai lulus. 
+
+---
+
+Prestasi Dosen:
+Daftar atau rangkuman prestasi dan penghargaan yang diraih oleh dosen-dosen departemen.
+Pencapaian prestasi/reputasi dosen disajikan dalam tabel. 
+
+---
+
+Academic and Industrial Mobility:
+Informasi tentang program pertukaran pelajar, magang industri, atau kerjasama akademik/industri.
+Departemen Teknik Elektro dan Informatika (DTEI) UM mengadakan berbagai kegiatan seperti Guest Lecturer “Trending Topic On Artificial Intelligence” , Workshop “Bedah Kurikulum Vokasi dan Akademik” bekerja sama dengan FORTEI Regional VII Jawa Timur , dan pelatihan Chief Information Officer (CIO) serta IT Service Management bekerjasama dengan Inixindo Surabaya untuk meningkatkan kompetensi dosen. Kegiatan lain seperti Focus Group Discussion (FGD) “Wireless Sensor Network”  dan Workshop at School (WATS) “SOLAR” untuk siswa SMA juga diselenggarakan. 
+
+---
+
+Departemen Teknik Elektro dan Informatika UM - FT - UM 2024
+
+Link ke: beranda.txt, profile.txt
